@@ -1,6 +1,6 @@
 # West Nile Virus EDA
 
-In this repo, I conduct an Exploratory Data Analysis on the subset of the Western Nile Virus dataset found on [Kaggle](https://www.kaggle.com/competitions/predict-west-nile-virus/data).
+In this repo, I conduct an Exploratory Data Analysis on a subset of the Western Nile Virus dataset found on [Kaggle](https://www.kaggle.com/competitions/predict-west-nile-virus/data).
 
 West Nile Virus (WNV) is a viral illness largely spread by mosquitoes. The disease is transmitted to a person when an infected mosquito bites them.
 
