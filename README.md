@@ -1,4 +1,4 @@
-# Brainstation-bootcamp
+# West Nile Virus EDA
 
 In this repo, I conduct an Exploratory Data Analysis on the subset of the Western Nile Virus dataset found on [Kaggle](https://www.kaggle.com/competitions/predict-west-nile-virus/data).
 
