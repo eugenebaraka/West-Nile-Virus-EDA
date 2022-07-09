@@ -1,4 +1,4 @@
-# West Nile Virus EDA
+# West Nile Virus Prediction
 
 In this repo, I conduct an Exploratory Data Analysis on a subset of the Western Nile Virus dataset found on [Kaggle](https://www.kaggle.com/competitions/predict-west-nile-virus/data).
 
