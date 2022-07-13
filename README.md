@@ -21,3 +21,5 @@ Data dictionary:
 - Species: Mosquito species			
 - Lat: Latitude of trap			
 - Lon: Longitude of trap		
+
+Find here the [modelling](/modelling.ipynb) and [EDA](notebooks)
